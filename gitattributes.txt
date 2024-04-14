@@ -1,2 +1,0 @@
-*		  	 text=auto
-*.txt    linguist-detectable linguist-language=AdBlock
