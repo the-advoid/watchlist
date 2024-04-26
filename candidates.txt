@@ -39,3 +39,4 @@ https://www.theverge.com/2024/4/24/24138949/microsoft-windows-11-start-menu-ads-
 https://softwarekeep.com/blogs/troubleshooting/fix-automatic-startup-repair-couldnt-repair-your-pc
 https://www.techpowerup.com/cpu-specs/ryzen-7-5825u.c2521
 https://www.synopsys.com/blogs/chip-design/what-is-usb4-v2-specification.html
+https://ssstik.io/en
